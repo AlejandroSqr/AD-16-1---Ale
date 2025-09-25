@@ -1,33 +1,25 @@
-# Instructions
+Modifica el estilo del texto del párrafo mediante código JavaScript. Al hacer clic en el botón, deben cambiar la fuente, el tamaño de la fuente y el color del texto del párrafo.
 
-## Tasks 
+Escribe una función JavaScript para obtener los valores del nombre y los apellidos del formulario. Al hacer clic en el botón, los nombres deben imprimirse en la consola.
 
-1. Modify the style of the paragraph text through JavaScript code.
-By clicking on the button, the font, font size, and colour of the paragraph text should change.
+Escribe una función para mostrar una alerta con información sobre los enlaces. Al hacer clic en el botón, debe aparecer el número de enlaces de la página, el primer enlace de la página y el último enlace de la página.
 
-2. Write a JavaScript function to get the values of First and Last name from the form.
-By clicking on the button, the names should be printed to the console.
+Tarea adicional
+Si has completado las tareas anteriores, prueba la siguiente tarea adicional para conseguir un reto extra.
 
-3. Write a function to show an alert with information about links.
-Clicking on the button should display the number of links on the page, the first link in the page, and the last link in the page.
+Tarea 4: Escribe el código que haga lo siguiente:
 
+Selecciona la sección con un identificador de contenedor.
+Selecciona toda la lista de elementos con una clase «second».
+Selecciona un elemento de la lista con una clase «third», pero solo el elemento de la lista dentro de la etiqueta ol.
+Añade el texto «¡Hola!» a la sección con un identificador de contenedor.
+Añade la clase principal al div con una clase footer.
+Elimina la clase principal del div con una clase de pie de página.
+Crea un nuevo elemento li.
+Asigna al li el texto «four».
+Añade el li al elemento ul.
 
-## Extra Task
+Puntuación
+El instructor puntuará tus tareas de programación al final de la sesión.
 
-4. If you have completed the above tasks, try the following extra task for a bonus challenge!
-
-Task 4: Write the code that will do the following:
- - Select the section with a container id.
- - Select all the items list with a class of "second".
- - Select a list item with a class of third, but only the list item inside of the ol tag.
- - Give the text "Hello!" to the section with a container id.
- - Add the main class to the div with a footer class.
- - Remove the main class on the div with a footer class.
- - Create a new li element.
- - Give the li the text "four".
- - Append the li to the ul element.
-
-
-## Scoring
-
-The instructor will score your coding tasks at the end of the session.
+Traducción realizada con la versión gratuita del traductor DeepL.com
